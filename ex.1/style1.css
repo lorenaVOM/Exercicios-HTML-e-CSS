@@ -1,0 +1,39 @@
+div {
+  background-color: rgb(0, 126, 98);
+  width: 350px;
+  height: 50px;
+  padding: 10px;
+  border: 7px solid black;
+  margin: 30px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 45px;
+  font-family: Arial;
+  margin: 0px;
+}
+
+.links {
+  color: rgb(0, 126, 98);
+  font-size: 22px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Arial;
+  background-color: black;
+  margin: 30px;
+}
+
+.hoje {
+  color: darkred;
+  font-family: Arial;
+}
+
+.amanha {
+  color: darkblue;
+  font-family: Arial;
+}
+
+body {
+  background-color: rgb(186, 240, 231);
+}
